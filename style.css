@@ -1,3 +1,8 @@
+*{
+    padding: 0;
+    margin: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
 .container{
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     max-width: 700px;
